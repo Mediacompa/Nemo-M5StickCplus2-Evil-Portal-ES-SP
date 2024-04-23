@@ -1,3 +1,5 @@
+(This is a modification of the original Nemo Firmware with a captive portal in Spanish and targeted to WIFI password testing)
+
 # M5Stick-NEMO
 Firmware for high-tech pranks on M5Stack ESP32 Devices
 
